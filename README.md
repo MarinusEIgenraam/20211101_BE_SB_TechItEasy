@@ -21,7 +21,7 @@ Je hebt de vorige les een begin gemaakt voor de applicatie voor je werkgever Tec
 - De **Application.properties** bevat de properties uit hoofdstuk 9.2 van de cursus Spring Boot
 - De **TelevisionRepository** extends JpaRepository met de juiste parameters
 - De **Television** bevat:
-  -de variablen:
+  -de attributen:
     - Long id (incl. annotaties id en generatedValue)
     - String type
     - String brand
