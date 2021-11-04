@@ -64,7 +64,7 @@ _Let op_: het is uitdagender om jouw eigen stappenplan te maken. Mocht je niet z
 4. Maak een nieuwe map aan in je project voor `Models`
 5. Maak een nieuwe klasse genaamd `Television`
 6. Voeg de annotatie **@Entity** toe aan de klasse
-7. Voeg de juiste _variablen_ toe aan de klasse
+7. Voeg de juiste _attributen_ toe aan de klasse
 8. Voeg de beide _constructors_ toe aan de klasse
 9. Voeg alle _getters & setters_ toe aan de klasse
 10. Maak een nieuwe map aan in je project voor `Repositories`
